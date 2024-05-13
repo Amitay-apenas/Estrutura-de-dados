@@ -16,7 +16,6 @@ public class Main {
 
         }};
         System.out.println("Essa é a minha família:" + familia);
-
         System.out.println("Essa é a minha esposa:" + familia.get(0));
         System.out.println("Essa é meu primogênito:" + familia.get(3));
         System.out.println("Essa é minha primeiro filha:" + familia.get(1));
